@@ -17,3 +17,6 @@ METHOD : POST
 PARAM  : username    => 登録時のユーザ名  
          passwd      => 登録時のパスワード    
          answer_text => 回答のテキストファイル  
+
+###ラッパーのお話
+僕はPythonしか書けないので各言語のラッパーとかを書いたりしたらPull Requestとかくれると嬉しいです！
