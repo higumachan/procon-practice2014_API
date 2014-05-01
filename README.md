@@ -13,7 +13,7 @@ PARAM  : なし
   http://procon2014-practice.oknct-ict.org/problem/ppm/1  
 </pre>
 ###回答投稿  
-####H™Lバージョン
+####HTMLバージョン
 <pre>
 URL    : http://procon2014-practice.oknct-ict.org/solve/<問題番号>  
 METHOD : POST  
