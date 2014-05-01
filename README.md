@@ -14,6 +14,6 @@ PARAM  : なし
 ###回答投稿  
 URL    : http://procon2014-practice.oknct-ict.org/solve/<問題番号>  
 METHOD : POST  
-PARAM  : username    => 登録時のユーザ名
-         passwd      => 登録時のパスワード  
+PARAM  : username    => 登録時のユーザ名  
+         passwd      => 登録時のパスワード    
          answer_text => 回答のテキストファイル  
