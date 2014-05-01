@@ -23,7 +23,7 @@ PARAM  : username    => 登録時のユーザ名
 </pre> 
 ####JSONバージョン 
 <pre>
-URL    : http://procon2014-practice.oknct-ict.org/solve/<問題番号>  
+URL    : http://procon2014-practice.oknct-ict.org/solve/json/<問題番号>  
 METHOD : POST  
 PARAM  : 	username    => 登録時のユーザ名  
             passwd      => 登録時のパスワード  
